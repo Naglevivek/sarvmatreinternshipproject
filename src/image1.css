@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    height: 100vh; /* Set the container height to full viewport height */
+  }
+  
+  .left-text {
+    width: 50%; /* Allocate 50% width for the left text */
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .right-image {
+    width: 50%; /* Allocate 50% width for the right image */
+    display: flex;
+    justify-content: center; /* Center the image horizontally */
+    align-items: center; /* Center the image vertically */
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  

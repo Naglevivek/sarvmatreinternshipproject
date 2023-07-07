@@ -1,0 +1,19 @@
+.footer {
+    background-color: rgb(43, 201, 43);
+ 
+    text-align: center;
+    min-height: 100px;
+    position: relative;
+
+     /* Set the width to 100% of the container */
+  }
+  
+  .footer h5 {
+    color: rgb(46, 3, 63);
+  }
+  
+  .footer p,
+  .footer ul {
+    color: black;
+  }
+  

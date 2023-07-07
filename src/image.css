@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text {
+  flex: 1;
+  text-align: left;
+}
+
+.image {
+  flex: 1;
+  text-align: right;
+}
+h1{
+   color: rgb(104, 247, 104);
+   margin-left: 10px;
+}
