@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarvmatreinternshipproject/static/css/main.9dc5a86a.css",
+    "main.js": "/sarvmatreinternshipproject/static/js/main.d33e21bc.js",
+    "static/js/787.f587e8d5.chunk.js": "/sarvmatreinternshipproject/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/sarvmatreinternshipproject/index.html",
+    "main.9dc5a86a.css.map": "/sarvmatreinternshipproject/static/css/main.9dc5a86a.css.map",
+    "main.d33e21bc.js.map": "/sarvmatreinternshipproject/static/js/main.d33e21bc.js.map",
+    "787.f587e8d5.chunk.js.map": "/sarvmatreinternshipproject/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc5a86a.css",
+    "static/js/main.d33e21bc.js"
+  ]
+}
